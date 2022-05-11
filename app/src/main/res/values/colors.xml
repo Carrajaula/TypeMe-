@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#273833</color>
+    <color name="black">#000</color>
+    <color name="darkpurple">#585868</color>
+    <color name="lightorange">#ebd6ab</color>
+    <color name="white">#fff</color>
+    <color name="colorAccent">#B41A5C</color>
+    <color name="invisible">#00FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="background">#FF2D2C35</color>
+    <color name="transparentWhite">#ccc</color>
+    <color name="notBlackButBlack">#202020</color>
+</resources>
